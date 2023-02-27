@@ -202,7 +202,7 @@ rules:
   - verbs:
       - '*'
     apiGroups:
-      - appconnect.ibm.com
+      - .ibm.com
     resources:
       - integrationservers
       - dashboards
